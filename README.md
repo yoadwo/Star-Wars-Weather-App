@@ -2,8 +2,9 @@
 
 A star wars themed weather app that displays the weather at your current location with a beautiful background image of a star wars world with the same weather conditions
 <br><br>
+A fork of _pulkit-jasti/star-wars-weather-app_, only this one will use "GitHub Secrets" to store the API token
 
-### Live URL: https://pulkit-jasti.github.io/Star-Wars-Weather-App/
+### Live URL: https://yoadwo.github.io/Star-Wars-Weather-App/
 
 <br><br>
 
